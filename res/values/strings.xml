@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InstructionsOverlay</string>
+    <string name="main_text">Something sophisticated, deep and interesting.</string>
+    <string name="help">Show Help</string>
+    <string name="share">Share</string>
+    <string name="help_screen">Help screen</string>
+    <string name="current_page">Page 10 of 15</string>
+
+</resources>
