@@ -43,10 +43,10 @@
             android:id="@+id/image_help"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:background="@drawable/help_screen"
             android:clickable="false"
             android:contentDescription="@string/help_screen"
-            android:scaleType="center"
-            android:src="@drawable/help_screen" />
+            android:scaleType="center" />
     </RelativeLayout>
 
 </RelativeLayout>
